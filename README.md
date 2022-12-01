@@ -1,2 +1,7 @@
 # photo-gallery
-Photo Gallery | A tutorial by freeCodeCamp | [html, css, front-end web development, tutorial]
+
+## Photo Gallery
+- Tutorial by freeCodeCamp
+
+## Tags
+html, css, front-end web development, tutorial
